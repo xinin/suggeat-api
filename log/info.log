@@ -1,0 +1,195 @@
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":7939,"level":50,"msg":"API Webs Públicas server listening on port 9000, env dev","time":"2016-05-30T17:30:21.118Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":7949,"level":50,"msg":"API Webs Públicas server listening on port 9000, env dev","time":"2016-05-30T17:30:21.147Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":7934,"level":50,"msg":"API Webs Públicas server listening on port 9000, env dev","time":"2016-05-30T17:30:21.185Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":7944,"level":50,"msg":"API Webs Públicas server listening on port 9000, env dev","time":"2016-05-30T17:30:21.228Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":7929,"level":50,"msg":"API Webs Públicas server listening on port 9000, env dev","time":"2016-05-30T17:30:21.248Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":7954,"level":50,"msg":"API Webs Públicas server listening on port 9000, env dev","time":"2016-05-30T17:30:21.258Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":7964,"level":50,"msg":"API Webs Públicas server listening on port 9000, env dev","time":"2016-05-30T17:30:21.300Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":7955,"level":50,"msg":"API Webs Públicas server listening on port 9000, env dev","time":"2016-05-30T17:30:21.325Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8054,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:30:55.578Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8074,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:30:55.597Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8059,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:30:55.608Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8064,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:30:55.623Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8089,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:30:55.648Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8075,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:30:55.659Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8069,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:30:55.680Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8084,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:30:55.741Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8187 died","time":"2016-05-30T17:32:31.881Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8197 died","time":"2016-05-30T17:32:31.890Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8202 died","time":"2016-05-30T17:32:31.904Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8212 died","time":"2016-05-30T17:32:31.918Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8192 died","time":"2016-05-30T17:32:31.935Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8207 died","time":"2016-05-30T17:32:31.944Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8213 died","time":"2016-05-30T17:32:31.955Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8222 died","time":"2016-05-30T17:32:32.174Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8269 died","time":"2016-05-30T17:32:32.557Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8279 died","time":"2016-05-30T17:32:32.626Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8270 died","time":"2016-05-30T17:32:32.631Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8289 died","time":"2016-05-30T17:32:32.689Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8299 died","time":"2016-05-30T17:32:32.695Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8294 died","time":"2016-05-30T17:32:32.746Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8280 died","time":"2016-05-30T17:32:32.766Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8310 died","time":"2016-05-30T17:32:32.996Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8331 died","time":"2016-05-30T17:32:33.327Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8347 died","time":"2016-05-30T17:32:33.359Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8348 died","time":"2016-05-30T17:32:33.422Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8376 died","time":"2016-05-30T17:32:33.438Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8370 died","time":"2016-05-30T17:32:33.471Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8387 died","time":"2016-05-30T17:32:33.523Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8176,"level":50,"msg":"worker 8382 died","time":"2016-05-30T17:32:33.619Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8542 died","time":"2016-05-30T17:34:38.505Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8547 died","time":"2016-05-30T17:34:38.513Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8552 died","time":"2016-05-30T17:34:38.518Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8562 died","time":"2016-05-30T17:34:38.522Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8567 died","time":"2016-05-30T17:34:38.527Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8557 died","time":"2016-05-30T17:34:38.533Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8573 died","time":"2016-05-30T17:34:38.540Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8572 died","time":"2016-05-30T17:34:38.567Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8634 died","time":"2016-05-30T17:34:39.237Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8644 died","time":"2016-05-30T17:34:39.245Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8656 died","time":"2016-05-30T17:34:39.253Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8639 died","time":"2016-05-30T17:34:39.277Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8649 died","time":"2016-05-30T17:34:39.287Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8628 died","time":"2016-05-30T17:34:39.338Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8531,"level":50,"msg":"worker 8665 died","time":"2016-05-30T17:34:39.343Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8930,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:36:32.372Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8915,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:36:32.376Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8920,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:36:32.380Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8925,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:36:32.383Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8950,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:36:32.394Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8935,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:36:32.414Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8940,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:36:32.420Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":8941,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:36:32.482Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9091,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:09.045Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9116,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:09.047Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9101,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:09.049Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9106,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:09.073Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9096,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:09.072Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9111,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:09.098Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9126,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:09.152Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9117,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:09.159Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9207,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:18.074Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9212,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:18.089Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9217,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:18.097Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9222,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:18.110Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9202,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:18.128Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9228,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:18.152Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9227,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:18.158Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9233,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:40:18.167Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9343,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:41:32.664Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9338,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:41:32.664Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9358,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:41:32.671Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9348,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:41:32.677Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9363,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:41:32.686Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9353,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:41:32.692Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9365,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:41:32.721Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9373,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:41:32.796Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9637,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:47:31.756Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9642,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:47:31.759Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9652,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:47:31.771Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9657,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:47:31.783Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9662,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:47:31.805Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9647,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:47:31.821Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9672,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:47:31.936Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9663,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:47:31.975Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9771,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:48:16.054Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9776,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:48:16.070Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9781,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:48:16.142Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9801,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:48:16.150Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9791,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:48:16.153Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9806,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:48:16.156Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9796,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:48:16.183Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":9786,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T17:48:16.202Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":10879,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:09:19.124Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":10889,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:09:19.158Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":10854,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:09:19.157Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":10884,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:09:19.264Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":10859,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:09:19.300Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":10874,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:09:19.358Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":10864,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:09:19.491Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":10869,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:09:19.496Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11342,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:11:17.417Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11362,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:11:17.429Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11347,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:11:17.431Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11367,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:11:17.442Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11368,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:11:17.450Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11352,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:11:17.468Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11377,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:11:17.502Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11357,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:11:17.558Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11562,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:19:53.553Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11567,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:19:53.575Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11572,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:19:53.602Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11577,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:19:53.606Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11587,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:19:53.614Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11582,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:19:53.623Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11597,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:19:53.656Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11592,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:19:53.694Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11697,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:20:30.950Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11702,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:20:30.982Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11707,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:20:30.985Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11717,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:20:30.999Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11712,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:20:31.007Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11727,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:20:31.013Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11722,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:20:31.034Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11692,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:20:31.035Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11972,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:25:54.958Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11967,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:25:54.960Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11982,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:25:54.976Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11977,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:25:54.983Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11992,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:25:54.992Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11997,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:25:55.007Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11987,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:25:55.009Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":11998,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:25:55.099Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12130,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:29:39.077Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12140,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:29:39.092Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12150,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:29:39.103Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12155,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:29:39.103Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12156,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:29:39.126Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12145,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:29:39.129Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12165,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:29:39.143Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12135,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:29:39.203Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12130,"level":50,"from":"[object Object]","uid":"iouco19x","body":{"password":"password","nickname":"asdasd","email":"user@asdasd"},"url":"/user/signUp?","ip":"127.0.0.1","msg":"MongoDB: creando usuario con valores {\"password\":\"password\",\"nickname\":\"asdasd\",\"email\":\"user@asdasd\"}","time":"2016-05-30T18:29:51.863Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12140,"level":50,"from":"[object Object]","uid":"ioucqkra","body":{"password":"password","nickname":"asdasd","email":"user@asdasd"},"url":"/user/signUp?","ip":"127.0.0.1","msg":"MongoDB: creando usuario con valores {\"password\":\"password\",\"nickname\":\"asdasd\",\"email\":\"user@asdasd\"}","time":"2016-05-30T18:31:50.424Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12361,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:32:16.682Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12387,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:32:16.845Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12371,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:32:16.860Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12376,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:32:16.864Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12382,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:32:16.864Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12366,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:32:16.875Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12377,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:32:16.890Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12356,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:32:16.923Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12684,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:34:56.684Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12679,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:34:56.690Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12704,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:34:56.713Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12699,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:34:56.717Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12694,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:34:56.722Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12714,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:34:56.722Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12689,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:34:56.745Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12709,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:34:56.759Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12684,"level":50,"from":"[object Object]","uid":"ioucup7c","body":{"password":"password","username":"sadasd","email":"user@asdasd"},"url":"/user/signUp?","ip":"127.0.0.1","msg":"MongoDB: creando usuario con valores {\"password\":\"password\",\"username\":\"sadasd\",\"email\":\"user@asdasd\"}","time":"2016-05-30T18:35:02.811Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12797,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:29.134Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12802,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:29.146Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12807,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:29.151Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12818,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:29.155Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12832,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:29.174Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12817,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:29.185Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12812,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:29.210Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12827,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:29.298Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12920,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:46.928Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12930,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:46.938Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12915,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:46.939Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12940,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:46.946Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12925,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:46.952Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12941,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:46.964Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12935,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:46.999Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12950,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:47.029Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":12920,"level":50,"from":"[object Object]","uid":"ioucvp7l","body":{"password":"password","username":"sadasd","email":"user@asdasd"},"url":"/user/signUp?","ip":"127.0.0.1","msg":"MongoDB: creando usuario con valores {\"password\":\"password\",\"username\":\"sadasd\",\"email\":\"user@asdasd\"}","time":"2016-05-30T18:35:49.475Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13035,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:59.245Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13040,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:59.250Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13045,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:59.255Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13050,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:59.259Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13065,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:59.289Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13051,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:59.288Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13060,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:59.307Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13030,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2016-05-30T18:35:59.316Z","v":0}
+{"name":"webs-publicas-info","hostname":"xinin-K55A","pid":13035,"level":50,"from":"[object Object]","uid":"ioucvym6","body":{"password":"password","username":"sadasd","email":"user@asdasd"},"url":"/user/signUp?","ip":"127.0.0.1","msg":"MongoDB: creando usuario con valores {\"password\":\"password\",\"username\":\"sadasd\",\"email\":\"user@asdasd\"}","time":"2016-05-30T18:36:01.667Z","v":0}
