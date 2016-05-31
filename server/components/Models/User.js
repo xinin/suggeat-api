@@ -11,13 +11,12 @@ class User {
     this.collection = 'users';
     this.schema = {
       _id : 'S',
-      username : 'S',
       email : 'S',
       password : 'S',
       wishlists : 'M',
       followers : 'M',
       followings : 'M',
-      requiredFields : ['username', 'email', 'password']
+      requiredFields : ['_id', 'email', 'password']
     };
   }
 

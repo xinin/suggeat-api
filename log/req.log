@@ -19,3 +19,6 @@ iouctf55 - 127.0.0.1 - [object Object] - [30/May/2016:18:34:03 +0000] "POST /use
 ioucu2it - 127.0.0.1 - [object Object] - [30/May/2016:18:34:33 +0000] "POST /user/signUp? HTTP/1.1" [object Object] 63 "-" "-"
 ioucvakn - 127.0.0.1 - [object Object] - [30/May/2016:18:35:30 +0000] "POST /user/signUp? HTTP/1.1" [object Object] 63 "-" "-"
 ioucvym6 - 127.0.0.1 - [object Object] - [30/May/2016:18:36:02 +0000] "POST /user/signUp? HTTP/1.1" 201 12 "-" "-"
+iovsca9x - 127.0.0.1 - [object Object] - [31/May/2016:18:36:23 +0000] "POST /user/signUp? HTTP/1.1" 201 12 "-" "-"
+iovsdbnj - 127.0.0.1 - [object Object] - [31/May/2016:18:37:12 +0000] "POST /user/signUp? HTTP/1.1" WriteError({"code":11000,"index":0,"errmsg":"E11000 duplicate key error index: wishlist.users.$_id_ dup key: { : \"user2\" }","op":{"password":"password","email":"user@user","_id":"user2"}}) 187 "-" "-"
+iovshn9f - 127.0.0.1 - [object Object] - [31/May/2016:18:40:33 +0000] "POST /user/signUp? HTTP/1.1" WriteError({"code":11000,"index":0,"errmsg":"E11000 duplicate key error index: wishlist.users.$_id_ dup key: { : \"user2\" }","op":{"password":"password","email":"user@asd","_id":"user2"}}) 186 "-" "-"
