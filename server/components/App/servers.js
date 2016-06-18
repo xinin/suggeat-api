@@ -31,6 +31,9 @@ Utils.setMorgan(app);
 Utils.setMiddleware(app);
 setup.once('success',() => {
   // Multihilo
+
+  numCPUs = 1; //Quitar luego
+
   if (!config.test.start && cluster.isMaster) {
     for (var i = 0; i < numCPUs; i++) {
       cluster.fork();
