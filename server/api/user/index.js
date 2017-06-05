@@ -7,9 +7,8 @@ var router = express.Router();
 
 router.get('/:userId', controller.get);
 
-router.post('/signUp', controller.signUp);
-router.post('/signIn', controller.signIn);
-router.post('/addWish', controller.addWish);
+// router.post('/signUp', controller.signUp);
+// router.post('/signIn', controller.signIn);
 
 
 module.exports = router;

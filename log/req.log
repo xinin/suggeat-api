@@ -196,3 +196,5 @@ iplax4z9 - 127.0.0.1 - [object Object] - [18/Jun/2016:15:10:44 +0000] "GET /wish
 iplaxtl4 - 127.0.0.1 - [object Object] - [18/Jun/2016:15:11:15 +0000] "POST /user/signIn? HTTP/1.1" 200 88 "-" "-"
 iplaxul0 - 127.0.0.1 - [object Object] - [18/Jun/2016:15:11:17 +0000] "GET /user/user? HTTP/1.1" 200 88 "-" "-"
 iplaxum2 - 127.0.0.1 - [object Object] - [18/Jun/2016:15:11:17 +0000] "GET /wishlist/1466255271168? HTTP/1.1" 200 108 "-" "-"
+j3jsrnu5 - 127.0.0.1 - - - [05/Jun/2017:07:10:42 +0000] "GET /user/aa HTTP/1.1" 401 24 "-" "PostmanRuntime/6.1.6"
+j3jsud7m - 127.0.0.1 - - - [05/Jun/2017:07:12:48 +0000] "GET /user/aa HTTP/1.1" 401 24 "-" "PostmanRuntime/6.1.6"

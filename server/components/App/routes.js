@@ -10,8 +10,8 @@ let config = App.Config();
 module.exports = function(app) {
   // Insert routes below
   app.use('/user', require(config.root+'api/user'));
-  app.use('/wishlist', require(config.root+'api/wishlist'));
-  app.use('/wish', require(config.root+'api/wish'));
+  // app.use('/wishlist', require(config.root+'api/wishlist'));
+  // app.use('/wish', require(config.root+'api/wish'));
 
   app.use('/status', function(req, res){
     res.status(202).send('OK');

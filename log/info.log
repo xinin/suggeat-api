@@ -508,3 +508,24 @@
 {"name":"webs-publicas-info","hostname":"xinin-K55A","pid":17266,"level":50,"from":"[object Object]","uid":"iplaxtl4","body":{"nickname":"user","password":"12345678"},"url":"/user/signIn?","ip":"127.0.0.1","msg":"MongoDB: obteniendo usuariouser","time":"2016-06-18T15:11:15.977Z","v":0}
 {"name":"webs-publicas-info","hostname":"xinin-K55A","pid":17266,"level":50,"from":"[object Object]","uid":"iplaxul0","body":{},"url":"/user/user?","ip":"127.0.0.1","msg":"MongoDB: obteniendo usuariouser","time":"2016-06-18T15:11:17.268Z","v":0}
 {"name":"webs-publicas-info","hostname":"xinin-K55A","pid":17266,"level":50,"from":"[object Object]","uid":"iplaxum2","body":{},"url":"/wishlist/1466255271168?","ip":"127.0.0.1","msg":"MongoDB: obteniendo wishlist 1466255271168","time":"2016-06-18T15:11:17.306Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2433,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:45:04.493Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2492,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:55:10.889Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2491,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:55:10.930Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2493,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:55:10.932Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2494,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:55:10.940Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2507,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:56:35.692Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2506,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:56:35.696Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2509,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:56:35.718Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2508,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T06:56:35.723Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2606,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:10:00.377Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2605,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:10:00.391Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2608,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:10:00.400Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2607,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:10:00.423Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2626,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:10:29.376Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2628,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:10:29.397Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2627,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:10:29.419Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2629,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:10:29.427Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2639,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:12:44.789Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2637,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:12:44.801Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2638,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:12:44.849Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2640,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:12:44.862Z","v":0}

@@ -70,40 +70,40 @@ class User {
     });
   }
 
-  addWish(req, values){
-    let $this = this;
-    let userId = values.user;
-    let wishId = values.wish;
-
-    return new Promise((resolve, reject)=>{
-      let Wishlist = App.getModel('Wishlist');
-      App.log().info(req,'MongoDB: añadiendo wish en usuario con valores '+JSON.stringify(values));
-      this.getById(req, userId, {_id:0, wishlists: 1}).then(
-        (user) => {
-          if(!user.wishlists){
-            Wishlist.create(req, 'My Wishlist').then(
-              (wishlistId) => {
-                user.wishlists = [wishlistId];
-                $this.update(req, userId, {wishlists: user.wishlists}).then(
-                  () => Wishlist.addWish(req, wishlistId, wishId).then(
-                      ()=> resolve(),
-                      err => reject(err)
-                    ),
-                  err => reject(err)
-                )
-              },err => reject(err)
-            )
-          } else {
-            let wishlistId = user.wishlist[0]; //TODO CAMBIAR PARA SELECCIONAR LA LIsTA
-            Wishlist.addWish(req, wishlistId, wishId).then(
-              ()=>  resolve(),
-              err => reject(err)
-            )
-          }
-        },err => reject(err)
-      );
-    })
-  }
+  // addWish(req, values){
+  //   let $this = this;
+  //   let userId = values.user;
+  //   let wishId = values.wish;
+  //
+  //   return new Promise((resolve, reject)=>{
+  //     let Wishlist = App.getModel('Wishlist');
+  //     App.log().info(req,'MongoDB: añadiendo wish en usuario con valores '+JSON.stringify(values));
+  //     this.getById(req, userId, {_id:0, wishlists: 1}).then(
+  //       (user) => {
+  //         if(!user.wishlists){
+  //           Wishlist.create(req, 'My Wishlist').then(
+  //             (wishlistId) => {
+  //               user.wishlists = [wishlistId];
+  //               $this.update(req, userId, {wishlists: user.wishlists}).then(
+  //                 () => Wishlist.addWish(req, wishlistId, wishId).then(
+  //                     ()=> resolve(),
+  //                     err => reject(err)
+  //                   ),
+  //                 err => reject(err)
+  //               )
+  //             },err => reject(err)
+  //           )
+  //         } else {
+  //           let wishlistId = user.wishlist[0]; //TODO CAMBIAR PARA SELECCIONAR LA LIsTA
+  //           Wishlist.addWish(req, wishlistId, wishId).then(
+  //             ()=>  resolve(),
+  //             err => reject(err)
+  //           )
+  //         }
+  //       },err => reject(err)
+  //     );
+  //   })
+  // }
 
   update(req,userId,values){
     return new Promise((resolve,reject)=>{
