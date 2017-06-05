@@ -138,7 +138,7 @@ class Utils {
           uid: req.headers.uid || Utils.uniqid()
         };
 
-        console.log(`Req ${req.utils.uid} : ${req.path}`);
+        console.log(`Req ${req.utils.uid} : ${req.method} ${req.path}`);
 
         if (!req.utils.from) return res.status(401).send("From header are required");
         App.Auth().isAuth(req, res, function () {

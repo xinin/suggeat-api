@@ -6,27 +6,20 @@ let User = App.getModel('User');
 
 
 
-// Get a single user
 exports.get = function(req, res) {
-  res.send('hello world');
-  // User.getById(req, req.params.userId).then(
-  //   (user) => Utils.response(req,res,200, user),
-  //   (err) => Utils.error(req, res, err)
-  // )
+  res.send('hello world GET'+JSON.stringify(req.headers));
 };
 
-// // Create a single user
-// exports.signUp = function(req, res) {
-//   User.create(req,req.body).then(
-//     () => Utils.response(req,res,201),
-//     (err) => Utils.error(req,res,err)
-//   )
-// };
-//
-// exports.signIn = function (req, res) {
-//   User.login(req, req.body).then(
-//     (user) => Utils.response(req, res, 200, user),
-//     (err) => Utils.error(req, res, err, 404)
-//   )
-// };
+
+exports.post = function(req, res) {
+  res.send('hello world POST'+JSON.stringify(req.headers)+JSON.stringify(req.body));
+};
+
+exports.put = function(req, res) {
+  res.send('hello world PUT'+JSON.stringify(req.headers)+JSON.stringify(req.body));
+};
+
+exports.delete = function(req, res) {
+  res.send('hello world DELETE'+JSON.stringify(req.headers)+JSON.stringify(req.body));
+};
 

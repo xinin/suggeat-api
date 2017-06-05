@@ -11,6 +11,7 @@ const Utils = App.Utils();
 const config = App.Config();
 const setup = require(__dirname + '/setup');
 const cluster = require('cluster');
+const cors = require('cors')
 let numCPUs = require('os').cpus().length;
 
 // Creamos app de express
@@ -27,6 +28,7 @@ app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 app.use(methodOverride());
 app.use(cookieParser());
+app.use(cors());
 Utils.setMorgan(app);
 Utils.setMiddleware(app);
 setup.once('success', () => {
