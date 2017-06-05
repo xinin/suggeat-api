@@ -529,3 +529,11 @@
 {"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2637,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:12:44.801Z","v":0}
 {"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2638,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:12:44.849Z","v":0}
 {"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":2640,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T07:12:44.862Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":3817,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T08:25:34.482Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":3816,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T08:25:34.490Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":3818,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T08:25:34.494Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":3819,"level":50,"msg":"API Webs Públicas server listening on port 9090, env dev","time":"2017-06-05T08:25:34.502Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":3831,"level":50,"msg":"Suggeat API server listening on port 9090, env dev","time":"2017-06-05T08:25:56.288Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":3832,"level":50,"msg":"Suggeat API server listening on port 9090, env dev","time":"2017-06-05T08:25:56.290Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":3833,"level":50,"msg":"Suggeat API server listening on port 9090, env dev","time":"2017-06-05T08:25:56.291Z","v":0}
+{"name":"webs-publicas-info","hostname":"MacBook-Pro-de-beeva.local","pid":3830,"level":50,"msg":"Suggeat API server listening on port 9090, env dev","time":"2017-06-05T08:25:56.293Z","v":0}

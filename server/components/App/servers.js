@@ -44,7 +44,7 @@ setup.once('success', () => {
       require(__dirname + '/routes')(app);
       const server = require('http').createServer(app);
       server.listen(config.app.port, config.app.ip, () => {
-        App.log().info(false, 'API Webs Públicas server listening on port ' + config.app.port + ', env ' + app.get('env'));
+        App.log().info(false, 'Suggeat API server listening on port ' + config.app.port + ', env ' + app.get('env'));
       });
     } catch (err) {
       App.log().error(false, {msg: 'Error arrancando servidor: ' + err.stack, code: 500, alert: 'system'});
