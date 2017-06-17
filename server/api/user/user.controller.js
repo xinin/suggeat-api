@@ -7,19 +7,19 @@ let User = App.getModel('User');
 
 
 exports.get = function(req, res) {
-  res.send('hello world GET'+JSON.stringify(req.headers));
+  res.send({data: 'hello world GET'});
 };
 
 
 exports.post = function(req, res) {
-  res.send('hello world POST'+JSON.stringify(req.headers)+JSON.stringify(req.body));
+  res.send({data:'hello world POST'});
 };
 
 exports.put = function(req, res) {
-  res.send('hello world PUT'+JSON.stringify(req.headers)+JSON.stringify(req.body));
+  res.send({data:'hello world PUT'});
 };
 
 exports.delete = function(req, res) {
-  res.send('hello world DELETE'+JSON.stringify(req.headers)+JSON.stringify(req.body));
+  res.send({data:'hello world DELETE'});
 };
 
