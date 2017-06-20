@@ -21,6 +21,5 @@ exports.login = function(req, res) {
   if (!find) {
     return Utils.error(req, res, 412);
   }
-
 };
 
