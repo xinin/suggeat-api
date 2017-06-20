@@ -200,6 +200,14 @@ class Utils {
     });
   }
 
+  static b64encode(s){
+    return new Buffer(s).toString('base64');
+  }
+
+  static b64decode(s){
+    return new Buffer(s, 'base64').toString();
+  }
+
 }
 
 module.exports = Utils;

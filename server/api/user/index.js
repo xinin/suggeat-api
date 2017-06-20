@@ -5,13 +5,8 @@ var controller = require('./user.controller');
 
 var router = express.Router();
 
-router.get('/:userId', controller.get);
-router.post('/:userId', controller.post);
-router.put('/:userId', controller.put);
-router.delete('/:userId', controller.delete);
+router.post('/login', controller.login);
 
-// router.post('/signUp', controller.signUp);
-// router.post('/signIn', controller.signIn);
 
 
 module.exports = router;
